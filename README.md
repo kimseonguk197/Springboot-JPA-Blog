@@ -1,2 +1,2 @@
 # Springboot-JPA-Blog
-블로그 게시판 프로그램입니다.
+springboo, jpa, maven, mysql 로 구성된 blog program
