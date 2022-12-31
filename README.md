@@ -1,2 +1,2 @@
 # Springboot-JPA-Blog
-springboot, jpa, maven, jsp mysql 로 구성된 blog program
+스프링부트로 만든 blog 프로그램입니다.(springboot, jpa, maven, jsp mysql 등 사용)
